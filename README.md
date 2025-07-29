@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 ## About the project
-a micro web app called Tweet link generator This that helps users quickly generate a pre-filled Twitter share link using their custom message or quote.
+a micro web app called Tweet link generator  that helps users quickly generate a pre-filled Twitter share link using their custom message or quote.
 
 ## Steps to follow
 1. Fork this repo.
